@@ -1,9 +1,9 @@
 package orangeHRM;
 
-public class SearchTest {
+public class LogOutTest {
 
 	public static void main(String[] args) {
-		System.out.println("SearchDemo");
+		System.out.println("LogOut Test");
 
 	}
 
